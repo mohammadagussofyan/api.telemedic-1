@@ -32,7 +32,7 @@ Class Account Extends REST_Controller{
 				'rules' => 'required'
             ),
             array(
-				'field' => 'LasttName',
+				'field' => 'LastName',
 				'label' => 'LastName',
 				'rules' => 'required'
             ),
